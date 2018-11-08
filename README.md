@@ -23,7 +23,7 @@ Top languages: Java, JavaScript, Objective-C, Python, C++
 ## [National Land Survey of Finland (Maanmittauslaitos)](https://github.com/nlsfi)
 Top languages: JavaScript, Java, Scheme, Shell
 
-# Not governmental, but government-related repositories
+# Not governmental, but government-related geospatial github repositories
 ## [OneMap](https://github.com/sla-onemap), Singapore
 Top languages: JavaScript, Go, HTML, Java, CSS
 ## [Oskari.org](https://github.com/oskariorg/), Finland
