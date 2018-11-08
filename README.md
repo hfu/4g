@@ -14,6 +14,8 @@ Top languages: Objective-C, Java, QML, JavaScript, Swift
 # Other great governmental geospatial github repositories
 ## [BKG](https://github.com/de-bkg) (Federal Agency for Cartography and Geodesy (BKG))
 Top languages: Java, PLpgSQL
+## [Humanitarian Information Unit](https://github.com/state-hiu) (U.S. Department of State, Humanitarian Information Unit)
+Top languages: JavaScript, Python, HTML, CSS, Shell
 ## [Institut National de l'Information Géographique et Forestière](https://github.com/IGNF)
 Top languages: Java, JavaScript, C++, CSS, HTML
 ## [Kartverket](https://github.com/kartverket) (The Norwegian Mapping Authority)
@@ -22,6 +24,8 @@ Top languages: JavaScript, C#, CSS, Python, Java
 Top languages: Java, JavaScript, Objective-C, Python, C++
 ## [National Land Survey of Finland (Maanmittauslaitos)](https://github.com/nlsfi)
 Top languages: JavaScript, Java, Scheme, Shell
+## [U.S. Geological Survey](https://github.com/usgs)
+Top languages: JavaScript, Python, Java, PHP, Jupyter Notebook
 
 # Not governmental, but government-related geospatial github repositories
 ## [OneMap](https://github.com/sla-onemap), Singapore
