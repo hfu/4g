@@ -2,7 +2,7 @@
 Great Governmental Geospatial GitHub repositories; a living list
 
 # Great with Vector Tiles
-## [Information Access Division, Geospatial Information authority of Japan](https://github.com/gsi-cyberjapan)
+## [Information Access Division, Geospatial Information Authority of Japan](https://github.com/gsi-cyberjapan)
 Top languages: JavaScript, HTML, Ruby, Python, Perl
 ## [NYC Planning](https://github.com/NYCPlanning)
 Top languages: JavaScript, CSS, HTML, Shell, Python
